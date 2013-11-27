@@ -18,6 +18,8 @@ gem 'jbuilder', '~> 1.2'
 gem 'pry'
 gem 'pry-rails'
 
+gem 'bcrypt-ruby'
+
 group :development, :test do
   gem 'rspec-rails'
   gem 'factory_girl'
