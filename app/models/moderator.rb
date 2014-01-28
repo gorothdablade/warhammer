@@ -1,0 +1,2 @@
+class Moderator < Role
+end

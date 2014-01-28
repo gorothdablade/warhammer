@@ -1,0 +1,2 @@
+class GameMaster < Role
+end

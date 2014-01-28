@@ -1,0 +1,2 @@
+class RogueTraderGameMaster < GameMaster
+end
